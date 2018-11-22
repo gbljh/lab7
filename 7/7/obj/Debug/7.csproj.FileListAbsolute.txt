@@ -1,0 +1,10 @@
+G:\Csharp\7\7\7\bin\Debug\7.exe.config
+G:\Csharp\7\7\7\bin\Debug\7.exe
+G:\Csharp\7\7\7\bin\Debug\7.pdb
+G:\Csharp\7\7\7\obj\Debug\7.csprojAssemblyReference.cache
+G:\Csharp\7\7\7\obj\Debug\_7.fMain.resources
+G:\Csharp\7\7\7\obj\Debug\_7.Properties.Resources.resources
+G:\Csharp\7\7\7\obj\Debug\7.csproj.GenerateResource.cache
+G:\Csharp\7\7\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+G:\Csharp\7\7\7\obj\Debug\7.exe
+G:\Csharp\7\7\7\obj\Debug\7.pdb
